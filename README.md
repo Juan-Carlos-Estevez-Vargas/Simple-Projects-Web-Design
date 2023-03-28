@@ -7,7 +7,8 @@ Pequeña galería de proyectos de diseño web empleando las tecnologías HTML, C
 1. [✔ JavaScript Documentation Page](https://github.com/Juan-Carlos-Estevez-Vargas/Simple-Projects-Web-Design/tree/master/JavaScript_Documetation_Page)
 2. [🌨 Login Moderno](https://github.com/Juan-Carlos-Estevez-Vargas/Simple-Projects-Web-Design/tree/master/Login-Moderno)
 3. [😀 Apeperia](https://github.com/Juan-Carlos-Estevez-Vargas/Simple-Projects-Web-Design/tree/master/apeperia)
-4. [📕 Coinbase Design Clone](https://github.com/Juan-Carlos-Estevez-Vargas/Simple-Projects-Web-Design/tree/master/coinbase)
+4. [💰 Coinbase Design Clone](https://github.com/Juan-Carlos-Estevez-Vargas/Simple-Projects-Web-Design/tree/master/coinbase)
+5. [🧾 TechNews](https://github.com/Juan-Carlos-Estevez-Vargas/Simple-Projects-Web-Design/tree/master/TechNews)
 
 ## Pasos para ejecutar cada uno de los proyectos:
 
