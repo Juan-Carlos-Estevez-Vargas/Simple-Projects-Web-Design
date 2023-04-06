@@ -1,6 +1,11 @@
 # JavaScript Documetation Page
 Página estática encargada de mostrar un poco de la documentación sobre JavaScript.
 
+## Pasos para ejecutar el programa:
+* Clonar el proyecto en tu máquina local
+* Abrir el proyecto con algún editor de código, se recomienda el uso de Visual Studio Code.
+* Ejecutar el archivo index.html.
+
 ### Si te ha gustado el proyecto invitame un café
 <div align="left">
   <a href="https://paypal.me/JEstevezVargas" target="_blank" style="display: inline-block;">
