@@ -1,6 +1,11 @@
 # Login Moderno
 Interface Login Moderno desarrollada en HTML y CSS bajo la compañía de Open Bootcamp, el proyecto utiliza flexbox
 
+## Pasos para ejecutar el programa:
+* Clonar el proyecto en tu máquina local
+* Abrir el proyecto con algún editor de código, se recomienda el uso de Visual Studio Code.
+* Ejecutar el archivo [index.html](https://github.com/Juan-Carlos-Estevez-Vargas/Simple-Projects-Web-Design/blob/master/Login-Moderno/index.html).
+
 ### Si te ha gustado el proyecto invitame un café
 <div align="left">
   <a href="https://paypal.me/JEstevezVargas" target="_blank" style="display: inline-block;">
