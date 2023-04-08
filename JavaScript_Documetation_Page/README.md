@@ -6,6 +6,8 @@ Página estática encargada de mostrar un poco de la documentación sobre JavaSc
 * Abrir el proyecto con algún editor de código, se recomienda el uso de Visual Studio Code.
 * Ejecutar el archivo index.html.
 
+Puedes ver la aplicación desplegada en la siguiente [ruta.](https://js-documentation-by-juan-estevez.netlify.app/)
+
 ### Si te ha gustado el proyecto invitame un café
 <div align="left">
   <a href="https://paypal.me/JEstevezVargas" target="_blank" style="display: inline-block;">
