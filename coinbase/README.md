@@ -1,4 +1,4 @@
-# design-coinbase
+# Design Coinbase
 Diseño web clon de la página oficial de coinbase, la cual fue realizada bajo la tutoría de OpenBootCamp como metodología para interiorizar los conceptos aprendidos en el curso de HTML y CSS
 
 El proyecto utiliza el preprocesador de texto SASS

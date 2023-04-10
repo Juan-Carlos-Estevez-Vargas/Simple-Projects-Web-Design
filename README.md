@@ -7,7 +7,8 @@ Pequeña galería de proyectos de diseño web empleando las tecnologías HTML, C
 1. [✔ JavaScript Documentation Page](https://github.com/Juan-Carlos-Estevez-Vargas/Simple-Projects-Web-Design/tree/master/JavaScript_Documetation_Page)
 2. [🌨 Login Moderno](https://github.com/Juan-Carlos-Estevez-Vargas/Simple-Projects-Web-Design/tree/master/Login-Moderno)
 3. [😀 Apeperia](https://github.com/Juan-Carlos-Estevez-Vargas/Simple-Projects-Web-Design/tree/master/apeperia)
-4. [📕 Coinbase Design Clone](https://github.com/Juan-Carlos-Estevez-Vargas/Simple-Projects-Web-Design/tree/master/coinbase)
+4. [💰 Coinbase Design Clone](https://github.com/Juan-Carlos-Estevez-Vargas/Simple-Projects-Web-Design/tree/master/coinbase)
+5. [🧾 TechNews](https://github.com/Juan-Carlos-Estevez-Vargas/Simple-Projects-Web-Design/tree/master/TechNews)
 
 ## Pasos para ejecutar cada uno de los proyectos:
 
@@ -17,7 +18,7 @@ Pequeña galería de proyectos de diseño web empleando las tecnologías HTML, C
  git clone https://github.com/Juan-Carlos-Estevez-Vargas/Simple-Projects-Web-Design.git
 ```
 
-- Abrir el proyecto algún editor de código (Visual Studio Code, Sublime Text, etc) y ejecutar el archivo index.html
+- Abrir el proyecto algún editor de código (Visual Studio Code, Sublime Text, etc) y ejecutar el proyecto de tu interés
 
 ### Si te ha gustado el proyecto invitame un café
 <div align="left">

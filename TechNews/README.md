@@ -1,12 +1,10 @@
-# JavaScript Documetation Page
-Página estática encargada de mostrar un poco de la documentación sobre JavaScript.
+# TechNews
+Página web estática de un sitio de noticias
 
 ## Pasos para ejecutar el programa:
 * Clonar el proyecto en tu máquina local
 * Abrir el proyecto con algún editor de código, se recomienda el uso de Visual Studio Code.
-* Ejecutar el archivo index.html.
-
-Puedes ver la aplicación desplegada en la siguiente [ruta.](https://js-documentation-by-juan-estevez.netlify.app/)
+* Ejecutar el archivo [index.html](https://github.com/Juan-Carlos-Estevez-Vargas/Simple-Projects-Web-Design/blob/master/TechNews/index.html).
 
 ### Si te ha gustado el proyecto invitame un café
 <div align="left">

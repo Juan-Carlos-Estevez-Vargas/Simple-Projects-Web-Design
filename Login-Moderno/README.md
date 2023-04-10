@@ -1,7 +1,12 @@
 # Login Moderno
 Interface Login Moderno desarrollada en HTML y CSS bajo la compañía de Open Bootcamp, el proyecto utiliza flexbox
 
-* Puedes ver el proyecto desplegado en la siguiente [ruta](login-moderno.netlify.app/)
+## Pasos para ejecutar el programa:
+* Clonar el proyecto en tu máquina local
+* Abrir el proyecto con algún editor de código, se recomienda el uso de Visual Studio Code.
+* Ejecutar el archivo [index.html](https://github.com/Juan-Carlos-Estevez-Vargas/Simple-Projects-Web-Design/blob/master/Login-Moderno/index.html).
+
+Puedes ver la aplicación desplegada en la siguiente [ruta.](https://login-moderno.netlify.app/)
 
 ### Si te ha gustado el proyecto invitame un café
 <div align="left">
@@ -14,9 +19,5 @@ Interface Login Moderno desarrollada en HTML y CSS bajo la compañía de Open Bo
 </div>
 <br />
 
-# Mis redes sociales
-
- <a href="https://www.youtube.com/channel/UCEUrVWPMTrXIWzn5CwnjYhQ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="uceurvwpmtrxiwzn5cwnjyhq" height="30" width="40" /></a> 
-<a href="https://instagram.com/juankestevez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="juankestevez" height="30" width="40" /></a>
- <a href="https://linkedin.com/in/juan-carlos-estevez-vargas-4abb8b14a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="juan-carlos-estevez-vargas-4abb8b14a/" height="30" width="40" /></a> 
- <a href="https://codepen.io/juan-carlos-estevez-vargas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="juan-carlos-estevez-vargas" height="30" width="40" /></a>
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/juancarlos.estevezvargas.98) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/juankestevez) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/juan-carlos-estevez-vargas) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@JuanCarlosEstevezVargas)
