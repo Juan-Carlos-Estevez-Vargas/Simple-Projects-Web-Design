@@ -9,6 +9,7 @@ Pequeña galería de proyectos de diseño web empleando las tecnologías HTML, C
 3. [😀 Apeperia](https://github.com/Juan-Carlos-Estevez-Vargas/Simple-Projects-Web-Design/tree/master/apeperia)
 4. [💰 Coinbase Design Clone](https://github.com/Juan-Carlos-Estevez-Vargas/Simple-Projects-Web-Design/tree/master/coinbase)
 5. [🧾 TechNews](https://github.com/Juan-Carlos-Estevez-Vargas/Simple-Projects-Web-Design/tree/master/TechNews)
+6. [🧠 YouTube Courses WebSite](https://github.com/Juan-Carlos-Estevez-Vargas/Simple-Projects-Web-Design/tree/master/YouTube%20Courses%20WebSite)
 
 ## Pasos para ejecutar cada uno de los proyectos:
 
